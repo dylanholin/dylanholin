@@ -26,4 +26,4 @@ Je souhaite rejoindre une équipe où je peux progresser sur des projets concret
 
 ## Liens
 - LinkedIn : [linkedin.com/in/dylan-holin](https://www.linkedin.com/in/dylan-holin/)
-- Portfolio : [serenadebird.github.io/dh-portfolio](https://dylanholin.github.io/dh-portfolio/)
+- Portfolio : [dylanholin.github.io/dh-portfolio](https://dylanholin.github.io/dh-portfolio/)
