@@ -1,6 +1,6 @@
 # Dylan Holin
 
-Développeur avancé & IA en recherche d'alternance à partir du **1er juillet 2026**.
+Développeur junior en recherche d'alternance à partir du **1er juillet 2026**.
 
 [![Alternance](https://img.shields.io/badge/Alternance-Recherchée-blue?style=flat-square)](https://dylanholin.github.io/dh-portfolio/)
 [![RGPD](https://img.shields.io/badge/RGPD-Compliant-blue?style=flat-square)](https://www.cnil.fr/)
