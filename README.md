@@ -2,10 +2,6 @@
 
 Développeur junior en recherche d'alternance à partir du **1er juillet 2026**.
 
-[![Alternance](https://img.shields.io/badge/Alternance-Recherchée-blue?style=flat-square)](https://dylanholin.github.io/dh-portfolio/)
-[![RGPD](https://img.shields.io/badge/RGPD-Compliant-blue?style=flat-square)](https://www.cnil.fr/)
-[![Sécurité](https://img.shields.io/badge/Sécurité-OWASP-critical?style=flat-square)](https://owasp.org/)
-
 > Profil double : développement full-stack et systèmes/réseaux/cybersécurité. Issu d'un parcours support informatique puis TSSR, je consolide aujourd'hui mes compétences en développement applicatif avec une attention particulière pour la sécurité et la vie privée.
 
 ## Stack Dev
