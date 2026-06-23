@@ -24,11 +24,6 @@ Développeur junior en recherche d'alternance à partir du **1er juillet 2026**.
 - **2024** : Technicien Supérieur Systèmes et Réseaux (Bac+2, Titre Pro Niveau 5), CCI de la Drôme, Valence
 - **2022-2023** : Technicien en Assistance Informatique (Bac, Titre Pro Niveau 4), CCI de la Drôme, Valence
 
-## Projets
-
-- [**SquareGames**](https://github.com/dylanholin/JavaSpring_Project) : API de jeux en architecture microservices (2 apps Spring Boot, REST, H2, Maven)
-- [**PipBoys Quest**](https://github.com/dylanholin/java_game_PipBoysQuest) : Jeu d'aventure tour par tour en Java (Swing + MySQL), inspiré D&D / Fallout
-- [**dh-portfolio**](https://github.com/dylanholin/dh-portfolio) : Mon portfolio, HTML/CSS/JS vanilla, zéro dépendance, CSP stricte, conforme RGPD
 
 ## Ce que je recherche
 
