@@ -18,7 +18,7 @@
 
 ## Parcours
 
-- **2025-2027** : Développeur avancé & IA (Bac+3, Titre Pro Niveau 6), Campus Numérique in the Alps, Alixan
+- **2025-2026** : Développeur avancé & IA (Bac+3, Titre Pro Niveau 6), Campus Numérique in the Alps, Alixan
 - **2024** : Technicien Supérieur Systèmes et Réseaux (Bac+2, Titre Pro Niveau 5), CCI de la Drôme, Valence
 - **2022-2023** : Technicien en Assistance Informatique (Bac, Titre Pro Niveau 4), CCI de la Drôme, Valence
 
